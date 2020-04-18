@@ -36,7 +36,7 @@ The questions that guide my analysis are
 The main results can be seen from the Notebook and the write up I post in this project
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
-The dataset is from Airbnb and Kaggle. The project orignates from Udacity course, you are welcome to build upon my analysis
+The dataset is from Airbnb and Kaggle. The project orignates from Udacity course, you are welcome to build upon my analysis. The structure of this README takes from [this project](https://github.com/u0509421/Write-a-Data-Science-Blog-Post) and my gratitude definitely goes to the author!
 
 
 
