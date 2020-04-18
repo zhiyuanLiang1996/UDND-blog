@@ -14,12 +14,13 @@ The Junpyter Notebook is written using Python 3 with default Anaconda Distributi
 - Pandas
 - Matplotlib
 - wordcloud
-- re
+- re  
+
 If you start with Anaconda default, then you should only need to install wordcloud (which is done in Notebook, so you only need to run the Notebook)
 
 ## Project Motivation<a name="motivation"></a>
 
-I analyzed Airbnb Seattle listings with a focus on the hosts. I tried to look at how super hosts are different from usual hosts. The dataset I used can be found [here](https://www.kaggle.com/airbnb/seattle). I foxus on using text data inside to capture the themes that differentiates the hosts
+I analyzed Airbnb Seattle listings with a focus on the hosts. I tried to look at how super hosts are different from usual hosts. The dataset I used can be found [here](https://www.kaggle.com/airbnb/seattle). I focus on using text data inside to capture the themes that differentiates the hosts
 
 The questions that guide my analysis are
 
