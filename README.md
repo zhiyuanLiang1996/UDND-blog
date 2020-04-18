@@ -28,7 +28,8 @@ The questions that guide my analysis are
 3. What do customers care about/ recognize in the super hosts? 
 
 ## File Descriptions <a name="files"></a>
-
+- AirbnbSeattle.ipynb: Notebook for the project
+- AirbnbSeattle.pdf: pdf of the blog for the project
 
 ## Results<a name="results"></a>
 The main results can be seen from the Notebook and the write up I post in this project
@@ -36,7 +37,5 @@ The main results can be seen from the Notebook and the write up I post in this p
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 The dataset is from Airbnb and Kaggle. The project orignates from Udacity course, you are welcome to build upon my analysis
 
-# Files
-AirbnbSeattle.ipynb: Notebook for the project
 
 
